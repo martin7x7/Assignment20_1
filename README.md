@@ -48,8 +48,8 @@ The exploration revealed the following:
 - Various Decision Tree–type models will need to be tested in order to find the best one.
 
 #### Outline of project
-- Link to the file where the manual analysis was performed: <>
-- Link to the file where the automated analysis with PyCaret was performed: <>
+- Link to the notebook where the manual analysis was performed: https://github.com/martin7x7/Assignment20_1/blob/main/package_weight_eda.ipynb
+- Link to the notebook where the automated analysis with PyCaret was performed: https://github.com/martin7x7/Assignment20_1/blob/main/package_weight_eda_PyCaret.ipynb
 
 ##### Contact and Further Information
 Discord: martin7x7
